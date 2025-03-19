@@ -45,9 +45,11 @@ Read more about [OpenWrt initial settings](https://github.com/Ramtiiin/Install-P
     done
     ```
 
+
 7. Update the package list again to include Passwall feeds:
    ```sh
    opkg update
+
 
 8. Install luci-app-passwall2 and v2ray-geosite-ir:
    ```sh
