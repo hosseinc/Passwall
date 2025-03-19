@@ -50,7 +50,6 @@ Read more about [OpenWrt initial settings](https://github.com/Ramtiiin/Install-P
    ```sh
    opkg update
 
-
 8. Install luci-app-passwall2 and v2ray-geosite-ir:
    ```sh
    opkg install luci-app-passwall2 v2ray-geosite-ir
